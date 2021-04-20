@@ -1,6 +1,6 @@
 # data-visualization-covid19-spain-map
 
-
+![mapa_covid.png](./static/mapa_covid.png "Covid Map")
 
 # Objective
 Our objective is to visualize a map of Spain having the possibility to see those affected by COVID-19 in March 2020 and April 2021 by clicking on two buttons, managing to see the difference of those affected from the beginning of the pandemic until a year later, representing affected number with scale pin radius. 
